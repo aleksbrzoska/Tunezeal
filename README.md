@@ -17,7 +17,7 @@ https://tunezeal.com
 
 # More
 
-SOCIAL MEDIA:
+- SOCIAL MEDIA:
 
 Facebook: https://facebook.com/tunezeal
 
@@ -30,7 +30,7 @@ YouTube: https://www.youtube.com/channel/UC1qNcaZv8mHwl44J1b3V2Bg
 
 
 
-PATREON:
+- PATREON:
 
 What will you get for being a Patreon?
 
